@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![JGMontoya's GitHub stats](https://github-readme-stats.vercel.app/api?username=jgmontoya&show_icons=true&theme=github_dark&count_private=true)
+
 <!--
 **jgmontoya/jgmontoya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
