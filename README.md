@@ -2,6 +2,8 @@
 
 Yo!
 
+Stay humble, stack sats.
+
 <!-- ![JGMontoya's GitHub stats](https://github-readme-stats.vercel.app/api?username=jgmontoya&show_icons=true&theme=github_dark&count_private=true) -->
 
 <!--
